@@ -5,19 +5,19 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
-
-[GitHub](https://github.com/coffeebank/moonrise)
-
-
-# Terms of Use
-
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
+Reimagine vanila Minecraft a užíj si vylepšený svět. 
+    1. Vlastní svět a pluginy
+    2. Meteority, skily, residence a hráčská economika
 
 
-# Privacy Policy
+# PAY TO WIN?
 
-This website does not collect any data, but third party integrations may collect data to provide a service.
+Server neobsahuje žádné pay to win prvky.
+
+
+# Ochrana dat
+
+Tato webová stránka, server a jiné naše služby **nesbírají** data.
 
 - Mcsrvstat.us: Displays Minecraft server status
 - Widgetbot: Displays Discord server preview
